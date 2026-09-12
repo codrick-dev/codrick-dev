@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/codrick-wordmark-inverse.svg">
-  <img src="assets/codrick-wordmark.svg" alt="Codrick" width="200">
+  <source media="(prefers-color-scheme: dark)" srcset="codrick-wordmark-reversed.svg">
+  <img src="codrick-wordmark.svg" alt="Codrick" width="200">
 </picture>
 
 **mobile apps &amp; software**
